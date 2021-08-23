@@ -1,0 +1,32 @@
+Card game
+1. Name, ID, ATK, HP, TYPE
+2. Turn based against BOT
+3. Login and registration 
+4. 10 cards decks 2
+5. user should alwasy go first 
+6. bot randomly generated actions in a dictionary 
+7. start with 3 cards 
+8. draw card from deck on your turn removing a card from your deck
+9. button to direct attack 
+10. place monster down cannot attack on the first turn
+11. limit one summon perturn
+12. one attack permonster 
+
+html 
+-----login registration------------
+--------main page-------------
+-header title- Welcome "user"  
+-logout
+-Counter for Wins/Loses
+-deck choice option 1 or 2 
+-duel page 
+-------duel page------------
+-4 divs 4 rows (their hand, their playing feild, our field, our hand)
+-display amount of cards remaining 
+-max of three monsters on field 
+-choice of attack (A1,2,3)
+-surrender(are you sure you want to surrender you will recieve an L)
+-If you have cards remaining you win otherwise you Lose
+-pop message when win or lose (add to counter)
+-redirect to dashboard button 
+
